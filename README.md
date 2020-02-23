@@ -3,7 +3,7 @@
 The game, Battleship, written in Java.
 
 ## Installation
-
+[![Run on Repl.it](https://repl.it/badge/github/tnezki/Java-Battleship)](https://repl.it/github/tnezki/Java-Battleship)
 1. Make sure you've installed all requirements
 2. Clone this repository:
   `git clone https://github.com/ymarcus93/Java-Battleship`
